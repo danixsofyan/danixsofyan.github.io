@@ -1,5 +1,5 @@
 Personal website danixsofyan
-visit my blog: http://danixsofyan/ml
+visit my blog: http://danixsofyan.ml/
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
